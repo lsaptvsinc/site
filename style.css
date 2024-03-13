@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+}
+#titolo{
+    color: red;
+    font-size: 100px;
+}
+h1, p{
+    text-align: center;
+}
+
+.insulti{
+    font-size: 20px;
+}
+
+h3{
+    text-align: center;
+}
+
+.nomi{
+    color: yellow;
+}
